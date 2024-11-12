@@ -18,7 +18,7 @@ Recommended products are presented for each customer based on what other custome
 This project demonstrates a simple, yet effective, way to create personalized product recommendations using spending data.
 
 
-Here's a README for your GitHub repository. This will include an overview, setup instructions, and a description of the code and functionality. This README assumes that users have basic Python knowledge and familiarity with data science tools like pandas and scikit-learn.
+
 
 Customer Product Recommendation System
 This project is a product recommendation system that suggests products to customers based on their checkout price similarity to other customers. Using machine learning techniques, specifically K-Nearest Neighbors (KNN), the system finds customers with similar checkout amounts and recommends the most popular products purchased by those similar customers.
