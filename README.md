@@ -1,4 +1,4 @@
-# Product-recommendation-using-KNN-
+# Product-recommendation-using-KNN
 
 
 
