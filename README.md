@@ -76,17 +76,7 @@ pandas
 scikit-learn
 Install dependencies with:
 
-bash
-Copy code
-pip install pandas scikit-learn
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/customer-product-recommendation.git
-cd customer-product-recommendation
-Ensure you have the necessary dependencies installed.
-Usage
+
 Prepare the data:
 
 Modify the data dictionary in the code to include your customer data with:
@@ -100,7 +90,7 @@ View recommendations:
 
 After running the script, it will print the recommended products for each customer.
 
-Here's a README for your GitHub repository. This will include an overview, setup instructions, and a description of the code and functionality. This README assumes that users have basic Python knowledge and familiarity with data science tools like pandas and scikit-learn.
+
 
 Customer Product Recommendation System
 This project is a product recommendation system that suggests products to customers based on their checkout price similarity to other customers. Using machine learning techniques, specifically K-Nearest Neighbors (KNN), the system finds customers with similar checkout amounts and recommends the most popular products purchased by those similar customers.
@@ -129,17 +119,7 @@ pandas
 scikit-learn
 Install dependencies with:
 
-bash
-Copy code
-pip install pandas scikit-learn
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/customer-product-recommendation.git
-cd customer-product-recommendation
-Ensure you have the necessary dependencies installed.
-Usage
+
 Prepare the data:
 
 Modify the data dictionary in the code to include your customer data with:
